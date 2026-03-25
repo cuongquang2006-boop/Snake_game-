@@ -41,6 +41,9 @@ g++ main.cpp -o snake
 ```
 ./snake
 ```
+### Recommend: 
+- 💡 Make sure you have a C++ compiler installed and build the project manually if needed.
+---
 
 ## Demo
 
