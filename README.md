@@ -45,18 +45,6 @@ g++ main.cpp -o snake
 - 💡 Make sure you have a C++ compiler installed and build the project manually if needed.
 ---
 
-## Demo
-
-### Gameplay
-<p align="center">
-  <img src="assets/demo-imag/snake-play.gif" width="500">
-</p>
-
-### Game Menu
-<p align="center">
-  <img src="assets/demo-imag/menu_im.png" width="500">
-</p>
-
 ## Purpose
 
 This project was created for **learning basic programming concepts**, such as:
